@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cream The Rabbit
+* source:	https://sketchfab.com/3d-models/cream-the-rabbit-54faea7399094d5f8b7c27316a12e5ad
+* author:	let ay (https://sketchfab.com/let_ay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cream The Rabbit" (https://sketchfab.com/3d-models/cream-the-rabbit-54faea7399094d5f8b7c27316a12e5ad) by let ay (https://sketchfab.com/let_ay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
